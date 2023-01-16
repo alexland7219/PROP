@@ -1,0 +1,4 @@
+EXECUCIÓ DEL PROJECTE DE PROP
+
+Operativa:
+1- Executar el bash script proporcionat.

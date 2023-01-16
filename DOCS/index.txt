@@ -1,0 +1,4 @@
+javadoc/ -> Directori de la Documentació del Codi amb Javadoc
+AssignacionsClasse.txt -> Assignacions de les classes entre els participants
+Manual_Usuari.pdf -> Manual de l'Usuari en PDF
+Tests_Integracio.pdf -> Compilació de tests d'integració en PDF

@@ -1,0 +1,1 @@
+Projecte -> Directori que conté l'executable del projecte

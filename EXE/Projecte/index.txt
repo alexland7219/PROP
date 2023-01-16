@@ -1,0 +1,4 @@
+projecte.sh -> Executable per al Projecte.
+descripcio.txt -> Descripció d'aquest directori.
+miglayout-*.jar -> JARs que implementen la llibreria MigLayout, necessària per
+a la nostra Interfície d'Usuari 
